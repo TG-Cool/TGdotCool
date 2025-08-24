@@ -26,7 +26,7 @@ Telegram中文生態充滿色情、博彩、詐騙內容，已經成為事實上
 ### 2.1.1 所有涉及“zh_cn”、"中文翻译包"、"中文汉化"、"中文語言包"等以提供語言包、翻译包的，均為詐騙；
 Telegram官方APP支援語言包切換功能（含繁體中文），無需下載第三方應用、網路流傳之中文版本存在安全風險，可能導致資產盜竊或資料外洩、更換語言包將全域變更介面語言，建議選用官方翻譯平台資源：
 
-繁體中文語言包：[setlanguage?lang=zh-hant-beta](tg://setlanguage?lang=zh-hant-beta)
+繁體中文語言包：[tg://setlanguage?lang=zh-hant-beta](tg://setlanguage?lang=zh-hant-beta)
 
 簡體中文語言包：[tg://setlanguage?lang=zhcncc](tg://setlanguage?lang=zhcncc)
 
